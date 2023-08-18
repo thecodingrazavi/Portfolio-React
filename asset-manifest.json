@@ -1,11 +1,18 @@
 {
   "files": {
-    "main.css": "/Portfolio-React/static/css/main.2c52f0b1.css",
-    "main.js": "/Portfolio-React/static/js/main.98abfed0.js",
+    "main.css": "/Portfolio-React/static/css/main.51878569.css",
+    "main.js": "/Portfolio-React/static/js/main.7cd5d365.js",
     "static/media/skills2.jpg": "/Portfolio-React/static/media/skills2.75e0aba0700c203e52b1.jpg",
     "static/media/tailwind.png": "/Portfolio-React/static/media/tailwind.3549d9e451d7abb96934.png",
     "static/media/react.png": "/Portfolio-React/static/media/react.283f9f863581bb226e65.png",
+    "static/media/project-5.jpeg": "/Portfolio-React/static/media/project-5.0b26b0692e9a610483a4.jpeg",
+    "static/media/project-6.jpeg": "/Portfolio-React/static/media/project-6.ecd87ccc7667efc5f77e.jpeg",
+    "static/media/project-3.jpeg": "/Portfolio-React/static/media/project-3.422dfb13f9ee0ce64584.jpeg",
+    "static/media/project-7.jpeg": "/Portfolio-React/static/media/project-7.0050498f8187d582112e.jpeg",
     "static/media/sass.png": "/Portfolio-React/static/media/sass.58e61bc991e55a95072b.png",
+    "static/media/project-1.jpeg": "/Portfolio-React/static/media/project-1.f3b907cc9bc300f0c439.jpeg",
+    "static/media/project-4.jpeg": "/Portfolio-React/static/media/project-4.a059259a13ae03a1e4b2.jpeg",
+    "static/media/project-2.jpeg": "/Portfolio-React/static/media/project-2.6d87eee3afb3c2dd6b12.jpeg",
     "static/media/brush.png": "/Portfolio-React/static/media/brush.85c9bab5ba2d7dcae1e3.png",
     "static/media/node.png": "/Portfolio-React/static/media/node.e71346fe0fec16ec5f6e.png",
     "static/media/git.png": "/Portfolio-React/static/media/git.dfdd0989ffe0184bdd68.png",
@@ -13,11 +20,11 @@
     "index.html": "/Portfolio-React/index.html",
     "static/media/close-icon.svg": "/Portfolio-React/static/media/close-icon.36a1df96f812b5f4c12f817f90a904c6.svg",
     "static/media/menu-icon.svg": "/Portfolio-React/static/media/menu-icon.9cbfc3090b4b0aec575128df8ede3633.svg",
-    "main.2c52f0b1.css.map": "/Portfolio-React/static/css/main.2c52f0b1.css.map",
-    "main.98abfed0.js.map": "/Portfolio-React/static/js/main.98abfed0.js.map"
+    "main.51878569.css.map": "/Portfolio-React/static/css/main.51878569.css.map",
+    "main.7cd5d365.js.map": "/Portfolio-React/static/js/main.7cd5d365.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c52f0b1.css",
-    "static/js/main.98abfed0.js"
+    "static/css/main.51878569.css",
+    "static/js/main.7cd5d365.js"
   ]
 }
